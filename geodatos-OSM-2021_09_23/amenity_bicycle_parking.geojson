@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-09-23T16:14:11Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4044844503",
+        "amenity": "bicycle_parking",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1990191,
+          -17.7534853
+        ]
+      },
+      "id": "node/4044844503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4044844506",
+        "amenity": "bicycle_parking",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1987892,
+          -17.7543835
+        ]
+      },
+      "id": "node/4044844506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4152025953",
+        "amenity": "bicycle_parking",
+        "capacity": "3",
+        "source": "Geoinquietos SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1823636,
+          -17.7857833
+        ]
+      },
+      "id": "node/4152025953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229059215",
+        "amenity": "bicycle_parking",
+        "source": "Geoinquietos SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1855697,
+          -17.7805928
+        ]
+      },
+      "id": "node/4229059215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4246951106",
+        "addr:street": "Avenida Antonio Vaca Diez",
+        "amenity": "bicycle_parking",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.191812,
+          -17.7528366
+        ]
+      },
+      "id": "node/4246951106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4354892798",
+        "amenity": "bicycle_parking",
+        "source": "Geoinquietos SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1824646,
+          -17.7843178
+        ]
+      },
+      "id": "node/4354892798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4550089490",
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "fee": "no",
+        "operator": "UAGRM",
+        "source": "Geoinquietos SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1920987,
+          -17.7700389
+        ]
+      },
+      "id": "node/4550089490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755500181",
+        "amenity": "bicycle_parking",
+        "source": "Geoinquietos SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1984935,
+          -17.7610026
+        ]
+      },
+      "id": "node/4755500181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4779005322",
+        "amenity": "bicycle_parking",
+        "operator": "cheo xD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1402427,
+          -17.8195585
+        ]
+      },
+      "id": "node/4779005322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837584421",
+        "amenity": "bicycle_parking",
+        "operator": "open mall urubo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.215631,
+          -17.7494072
+        ]
+      },
+      "id": "node/4837584421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6635920563",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1505561,
+          -17.7728265
+        ]
+      },
+      "id": "node/6635920563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8254885117",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1929575,
+          -17.8095397
+        ]
+      },
+      "id": "node/8254885117"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Nombre: Geodatos sobre bicicleta de la ciudad de Santa Cruz
+Fuente: OpenStreetMap
+Fecha extracción: 2021-09-23
+Descripción:  Datos en formato GeoJSON obtenidos de la ejecución de los siguientes comandos Overpass Turbo.
+
+/* Bicisendas */
+<query type="way">
+    <around lat="-17.7836124" lon="-63.1821578,19.25" radius="20000"/>
+    <has-kv k="highway" regv="cycleway"/>
+</query>
+<union>
+  <item/>
+  <recurse type="down"/>
+</union>
+<print/>
+
+
+/* Biciparqueos */
+node
+  [amenity=bicycle_parking]
+  ({{bbox}});
+out;
+
+
+/* Talleres o tiendas de bicicleta */
+node
+  [shop=bicycle]
+  ({{bbox}});
+out;
+
+Operador: Eric Armijo (rcrmj@hotmail.com)

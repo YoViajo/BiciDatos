@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-09-23T16:00:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4019944913",
+        "name": "Ciclo Aventura M K",
+        "shop": "bicycle",
+        "source": "Geoinquietos SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1909117,
+          -17.7523892
+        ]
+      },
+      "id": "node/4019944913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4019944914",
+        "addr:street": "Avenida Antonio Vaca Diez",
+        "name": "Ciclomundo",
+        "shop": "bicycle",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1918864,
+          -17.7528521
+        ]
+      },
+      "id": "node/4019944914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4110482805",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:street": "Avenida Roque Aguilera",
+        "brand": "FOX",
+        "name": "Becar Bicicletas (FOX)",
+        "operator": "Becar",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2018635,
+          -17.8006598
+        ]
+      },
+      "id": "node/4110482805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4154560298",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:housenumber": "950",
+        "addr:street": "Avenida Cristo Redentor",
+        "contact:facebook": "https://www.facebook.com/Kawamoto-Santa-Cruz-243528422494863/",
+        "name": "Kawamoto Bicycle",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1766284,
+          -17.7526954
+        ]
+      },
+      "id": "node/4154560298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4161516904",
+        "name": "taller de bicicletas",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "source": "Geoinquietos SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2273949,
+          -17.8255284
+        ]
+      },
+      "id": "node/4161516904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316397628",
+        "name": "Bicicletería Torrez",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1632432,
+          -17.7632975
+        ]
+      },
+      "id": "node/4316397628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316397629",
+        "name": "Bicicletería Monaco",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1631972,
+          -17.7632302
+        ]
+      },
+      "id": "node/4316397629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4390764471",
+        "name": "Bike Service",
+        "shop": "bicycle",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1975941,
+          -17.7852439
+        ]
+      },
+      "id": "node/4390764471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447809052",
+        "name": "taller de bicicleta",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1591974,
+          -17.7643575
+        ]
+      },
+      "id": "node/4447809052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4450684489",
+        "addr:city": "Santa Cruz de la Sierra",
+        "addr:street": "Avenida Montecristo",
+        "craft": "metal_construction",
+        "name": "Herreria Gregory",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0826211,
+          -17.7482206
+        ]
+      },
+      "id": "node/4450684489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455261199",
+        "addr:street": "Mario Flores",
+        "name": "Planet Bike",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1916225,
+          -17.789489
+        ]
+      },
+      "id": "node/4455261199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5644561321",
+        "name": "taller y tienda de bicicletas",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2265148,
+          -17.8258452
+        ]
+      },
+      "id": "node/5644561321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7309557985",
+        "name": "Jdf",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0866692,
+          -17.7459912
+        ]
+      },
+      "id": "node/7309557985"
+    }
+  ]
+}
